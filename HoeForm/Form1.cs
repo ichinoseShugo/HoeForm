@@ -14,6 +14,7 @@ namespace HoeForm
     {
         public Form1()
         {
+
             InitializeComponent();
         }
     }
